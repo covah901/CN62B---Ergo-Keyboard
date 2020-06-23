@@ -1,6 +1,6 @@
 # BASED ON MYSTERIUM
 
-![mysterium](https://github.com/coseyfannitutti/mysterium/blob/master/doc/images/mysterium.png)
+Sorry I didn't come up with a better name. This is mostly an abanonded prototype. 
 
 An Ergo keyboard that can be assembled with only through hole components, heavily based on Mysterium. 
 
