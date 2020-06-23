@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri /home/john/Documents/keyboard_parts/hasu_components/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name avr-arduino)(type Legacy)(uri /home/john/Documents/keyboard_parts/avr-arduino-kicad-master/library/avr-arduino.lib)(options "")(descr ""))
+)
